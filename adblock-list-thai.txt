@@ -1,3 +1,7 @@
 ! Title: stangza159/adblock-list-thai
 ! Description: stangza159/adblock-list-thai
 ! Homepage: https://github.com/stangza159/adblock-list-thai
+||1.bp.blogspot.com^
+||2.bp.blogspot.com^
+||3.bp.blogspot.com^
+||4.bp.blogspot.com^
