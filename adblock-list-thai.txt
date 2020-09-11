@@ -1,1 +1,3 @@
-boss-anime.com##IMG[class="img-fluid"]
+! Title: stangza159/adblock-list-thai
+! Description: stangza159/adblock-list-thai
+! Homepage: https://github.com/stangza159/adblock-list-thai
