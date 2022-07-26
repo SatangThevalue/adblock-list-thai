@@ -7,3 +7,5 @@
 ||4.bp.blogspot.com^
 ||movie678.com/images/banners/*.gif
 ||movie678.com^images^banners^
+||uhuseries.com/banner/*/*.gif
+||uhuseries.com/banner/*/*.webp
